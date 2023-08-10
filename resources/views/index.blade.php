@@ -139,6 +139,8 @@
     <script src={{ asset('js/dashboard.js') }}></script>
     <script src={{ asset('js/color-modes.js') }}></script>
     <script src={{ asset('js/chart.umd.min.js') }}></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.js" ></script>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 </body>
 
 </html>
